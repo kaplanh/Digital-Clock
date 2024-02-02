@@ -1,6 +1,6 @@
 # Digital Clock
 
-![digital clock](https://github.com/kaplanh/Digital-Watch/assets/101884444/77bf2e3d-5cfc-45ef-b340-1691785c7925)
+![digital clock](https://github.com/kaplanh/Digital-Clock/assets/101884444/8abffd42-81b8-47ca-9d97-c4a99fe85177)
 
 [Click Me!](https://kaplanh.github.io/Digital-Clock/)
 
